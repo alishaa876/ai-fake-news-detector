@@ -30,15 +30,15 @@ An AI-powered Flutter mobile application designed to help users analyze news con
 
 ### Front Page
 
-![Front Page](screenshoot/frontpage.jpeg)
+![Front Page](screenshot/frontpage.jpeg)
 
 ### Login Page
 
-![Login Page](screenshoot/loginpage.jpeg)
+![Login Page](screenshot/loginpage.jpeg)
 
 ### Result Page
 
-![Result Page](screenshoot/resultpage.jpeg)
+![Result Page](screenshot/resultpage.jpeg)
 
 ## Project Purpose
 
