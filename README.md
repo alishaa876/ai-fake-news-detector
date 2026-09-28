@@ -1,16 +1,52 @@
-# news_detector
+# AI-Powered Fake News Detector App for Pakistan
 
-A new Flutter project.
+An AI-powered Flutter mobile application designed to help users analyze news content and identify potentially fake or misleading information. The application supports English and Urdu input and provides a simple and user-friendly interface.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+* 📰 News text input
+* 🖼️ Image and screenshot-based news input
+* 🌐 English and Urdu language support
+* 🤖 AI-based fake news detection
+* 🔥 Firebase integration
+* 📚 Search history
+* 📱 Flutter mobile application
+* 📊 Results:
 
-A few resources to get you started if this is your first Flutter project:
+  * Verified
+  * Fake
+  * Needs Verification
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Technologies Used
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Flutter
+* Dart
+* Firebase
+* Python
+* Machine Learning
+* REST API
+
+## Application Screenshot
+
+### Front Page
+
+![Front Page](screenshoot/frontpage.jpeg)
+
+### Login Page
+
+![Login Page](screenshoot/loginpage.jpeg)
+
+### Result Page
+
+![Result Page](screenshoot/resultpage.jpeg)
+
+## Project Purpose
+
+This project was developed as a Final Year Project to explore the use of Artificial Intelligence and Machine Learning for identifying potentially misleading news content, with a focus on users in Pakistan.
+
+## Author
+
+**Alisha**
+
+BS Information Technology
+
